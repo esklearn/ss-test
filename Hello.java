@@ -4,4 +4,3 @@ class Hello {
 		System.out.println("Hello " + args[0] + "!! - Second time");
 	}
 }
-xyz
